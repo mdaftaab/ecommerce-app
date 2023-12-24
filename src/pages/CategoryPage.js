@@ -10,6 +10,7 @@ const CategoryPage = () => {
         // Sample product data for a specific category
         { id: 1, name: 'Category Product 1', description: 'Description 1', price: 19.99 },
         { id: 2, name: 'Category Product 2', description: 'Description 2', price: 29.99 },
+        { id: 3, name: 'Category Product 3', description: 'Description 3', price: 29.99 },
         // Add more products as needed
     ];
 

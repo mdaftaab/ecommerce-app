@@ -7,6 +7,7 @@ const Navbar = () => {
             <ul>
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/cart">Cart</Link></li>
+                <li><Link to="/category/:category">Category</Link></li>
                 {/* Add more navigation links as needed */}
             </ul>
         </nav>
